@@ -1,0 +1,24 @@
+Script started on 2015年03月11日 (週三) 15時13分53秒
+]0;F74031043@2015cpp: ~F74031043@2015cpp:~$ whoami; pwd
+F74031043
+/home/F74031043
+]0;F74031043@2015cpp: ~F74031043@2015cpp:~$ git config ‐l[K[K[K[K[K[K[K[K[K[K[K[K[Kgitwhoami; pwdscript lab1.script[5Pgit config -l-global user.email "f74031043@mail.ncku.edu.com""[A]0;F74031043@2015cpp: ~F74031043@2015cpp:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20Pname "1314520"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cemail "f74031043@mail.ncku.edu.com""[A]0;F74031043@2015cpp: ~F74031043@2015cpp:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20Pname "1314520"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;F74031043@2015cpp: ~F74031043@2015cpp:~$ git config --global user.name "1314520"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cwhoami; pwd[Kscript lab1.script[5Pgit config -l-global user.email "f74031043@mail.ncku.edu.com""
+]0;F74031043@2015cpp: ~F74031043@2015cpp:~$ git config --global user.email "f74031043@mail.ncku.edu.com""[A]0;F74031043@2015cpp: ~F74031043@2015cpp:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20Pname "1314520"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cwhoami; pwd[Kscript lab1.script[5Pgit config -l-global user.email "f74031043@mail.ncku.edu.com""[A]0;F74031043@2015cpp: ~F74031043@2015cpp:~$ [C[C[C[C[C[C[C[C[C[C[C[Cl[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+user.name=1314520
+user.email=f74031043@mail.ncku.edu.com
+]0;F74031043@2015cpp: ~F74031043@2015cpp:~$ git config -l-global user.email "f74031043@mail.ncku.edu.com""[A]0;F74031043@2015cpp: ~F74031043@2015cpp:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20Pname "1314520"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cemail "f74031043@mail.ncku.edu.com""
+]0;F74031043@2015cpp: ~F74031043@2015cpp:~$ git config --global user.email "f74031043@mail.ncku.edu.com""[A]0;F74031043@2015cpp: ~F74031043@2015cpp:~$ [C[C[C[C[C[C[C[C[C[C[C[Cl[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-global user.email "f74031043@mail.ncku.edu.com""[A]0;F74031043@2015cpp: ~F74031043@2015cpp:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20Pname "1314520"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cwhoami; pwd[Kscript lab1.script[5Pgit config -l-global user.email "f74031043@mail.ncku.edu.com""[A]0;F74031043@2015cpp: ~F74031043@2015cpp:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20Pname "1314520"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clone https://github.com/1314520/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74031043@2015cpp: ~F74031043@2015cpp:~$ exit
+
+Script done on 2015年03月11日 (週三) 15時15分04秒
